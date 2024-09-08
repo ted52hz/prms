@@ -20,7 +20,7 @@
 |1|CS2229|Machine learning algorithms and theory|20243|AI6102|
 |2|CS2230|Deep Learning and Applications|20251|AI6103|
 |3|CS2207|	Data mining and applications|20251|SD6125|
-|4|CS2223|Principles and Techniques of Programming|||
+|4|CS2228|Evolutionary Algorithms|||
 |5|CS2225|	Image recognition and applications|	
 |6|IS6104|	Introduction to Mobile Application Development|	
 |7|IS6108|	Big Data Analysis and Cloud Computing|	
