@@ -5,7 +5,7 @@
 |2|SD6104|Data Preparation|#N/A|#N/A
 |3|AI6102|Machine Learning Methodologies and Applications|✔️|20243|
 |4|AI6104|Mathematics for Artificial Intelligence|✔️|20243|
-|5|AI6103|Deep Learning and Applications|✔️|20251|
+|5|AI6103|Deep Learning and Applications|✔️|20243|
 |6|SD6125|Data Mining|✔️|20251|
 |7|SD6103|Data Systems|✔️|20252|
 |8|AI6123|Time Series And Prediction|✔️|20252|
@@ -17,8 +17,8 @@
 ## MSc in Computer Science (DS-AI) [MSCS-UIT](https://sdh.uit.edu.vn/bai-viet/khung-chuong-trinh-dao-tao-thac-si-khmt-k172022-k182023-k192024) (12/2025 - 11/2027)
 |No|Course ID| Course Name|Term|Overlap?|
 |-|-|-|-|-|
-|1|CS2229|Machine learning algorithms and theory|20243|AI6102|
-|2|CS2230|Deep Learning and Applications|20251|AI6103|
+|1|CS2229|Machine learning algorithms and theory|20243-20251|AI6102|
+|2|CS2230|Deep Learning and Applications|20243-20251|AI6103|
 |3|CS2207|	Data mining and applications|20251|SD6125|
 |4|CS2228|Evolutionary Algorithms|||
 |5|CS2225|	Image recognition and applications|	
