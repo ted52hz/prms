@@ -7,10 +7,10 @@
 |4|AI6104|Mathematics for Artificial Intelligence|✔️|20243|
 |5|AI6103|Deep Learning and Applications|✔️|20243|
 |6|SD6125|Data Mining|✔️|20251|
-|7|SD6103|Data Systems|✔️|20252|
-|8|AI6123|Time Series And Prediction|✔️|20252|
-|9|SD6105|Data Visualisation|✔️|20253|
-|10|AI6122|Text Data Management|✔️|20253|
+|7|SD6103|Data Systems|✔️||
+|8|AI6123|Time Series And Prediction|✔️|20251|
+|9|SD6105|Data Visualisation|✔️||
+|10|AI6122|Text Data Management|✔️||
 
 
 
