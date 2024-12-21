@@ -1,17 +1,29 @@
 
 
 ## MSc in Computer/Data Science (2025?) [MSCS-UIT](https://sdh.uit.edu.vn/bai-viet/khung-chuong-trinh-dao-tao-thac-si-khmt-k172022-k182023-k192024)
-Core courses
-|No|Course ID| Course Name|Term|Overlap?|
-|-|-|-|-|-|
-|1|CS2229|Machine learning algorithms and theory|20251|AI6102|
-|2|CS2230|Deep Learning and Applications|20251|AI6103|
-|3|CS2207|Data mining and applications|20251|SD6125|
-|4|IS6108|Big Data Analysis and Cloud Computing|20252|
-|5|IT2011|Advanced Databases|20252|
-|6|PH2001|Philosophy|*
-|7|CS2205|Scientific research methodology|*	
 
+|No|Course ID| Core Course (24)|Credits|Term|Overlap?|
+|-|-|-|-|-|-|
+|1|CS2229|Machine learning algorithms and theory|4|20251|AI6102|
+|2|CS2230|Deep Learning and Applications|3|20251|AI6103|
+|3|CS2207|Data mining and applications|4|20251|SD6125|
+|4|IS6108|Big Data Analysis and Cloud Computing|4|20252|
+|5|IT2011|Advanced Databases|4|20252|
+|6|PH2001|Philosophy|3|*
+|7|CS2205|Scientific research methodology|2|*	
+
+|No|Course ID| Elective Course (21)|Credits|Term|Overlap?|
+|-|-|-|-|-|-|
+|1|||4|||
+|2|||4|||
+|3|||4|||
+|4|||4|||
+|5|||4|||
+|6|||3|||
+
+|No|Course ID| Thesis (15)|Credits|
+|-|-|-|-|
+|1|||15|
 
 ## MSc in Data Science [MSDS-NTU](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-data-science-(msds)#curriculum) (referrence)
 
