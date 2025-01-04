@@ -1,6 +1,6 @@
 
 
-## MSc in Computer/Data Science (2025?) [MSCS-UIT](https://sdh.uit.edu.vn/bai-viet/khung-chuong-trinh-dao-tao-thac-si-khmt-k172022-k182023-k192024)
+## MSc in Computer/Data Science (2025-26-27) [MSCS-UIT](https://sdh.uit.edu.vn/bai-viet/khung-chuong-trinh-dao-tao-thac-si-khmt-k172022-k182023-k192024)
 
 |No|Course ID| Core Course (24)|Credits|Term|Overlap?|
 |-|-|-|-|-|-|
@@ -12,18 +12,27 @@
 |6|PH2001|Philosophy|3|*
 |7|CS2205|Scientific research methodology|2|*	
 
-|No|Course ID| Elective Course (21)|Credits|Term|Overlap?|
+|No|Course ID| Elective Course (21+)|Credits|Term|Note|
+|-|-|-|-|-|-|
+|1|IS6104|Introduction to Mobile Application Development|4||SE/IS (interdisciplinary)|
+|2|IT2030|Advanced geographic information system|3||IT (interdisciplinary)|
+|3|||4||waiting - MSDS/interdisciplinary|
+|4||Research (Term 2) |4||waiting - MSDS|
+|5||Research (Term 3) |4||waiting - MSDS|
+|6||Research (Term 4) |4||waiting - MSDS|
+
+|No|Course ID| Back-up Course [MSCS] (12)|Credits|Term|Note|
 |-|-|-|-|-|-|
 |1|||4|||
 |2|||4|||
 |3|||4|||
-|4|||4|||
-|5|||4|||
-|6|||3|||
+
 
 |No|Course ID| Thesis (15)|Credits|
 |-|-|-|-|
-|1|||15|
+|1|CS2506|Research-based Program Thesis|15|
+
+> Thesis Topic: #DataScience #Chatbot 
 
 ## MSc in Data Science [MSDS-NTU](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-data-science-(msds)#curriculum) (referrence)
 
