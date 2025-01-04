@@ -32,7 +32,9 @@
 |-|-|-|-|
 |1|CS2506|Research-based Program Thesis|15|
 
-> Thesis Topic: #DataScience #Chatbot 
+> ✅ Plagiarism Detector ([Turnitin](https://www.turnitin.com/)) | 25% (All content), 5% (1 source) <br>
+> ✅ Quota & topic: [UIT/Postgrad/Quota](https://docs.google.com/spreadsheets/d/1mddaN_f82lnpEP8nqbz6_uCYwXZaJDDz/edit?gid=1891768874#gid=1891768874), [UIT/Postgrad/Topic](https://docs.google.com/spreadsheets/d/1pfjqKoUjUMdSf__QGyWbRRiVKl6iZKIFA36-_2yzvTk/edit?gid=698935858#gid=698935858) <br>
+> ✅ Ref: [VNU-LIB/UIT/Master-Theses](https://ir.vnulib.edu.vn/handle/VNUHCM/7776)
 
 ## MSc in Data Science [MSDS-NTU](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-data-science-(msds)#curriculum) (referrence)
 
