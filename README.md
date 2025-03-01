@@ -1,36 +1,22 @@
+## MSc in Computer/Data Science (2026/27) [MSCS-UIT](https://sdh.uit.edu.vn/bai-viet/khung-chuong-trinh-dao-tao-thac-si-khmt-k172022-k182023-k192024)
 
-
-## MSc in Computer/Data Science (2025-26-27) [MSCS-UIT](https://sdh.uit.edu.vn/bai-viet/khung-chuong-trinh-dao-tao-thac-si-khmt-k172022-k182023-k192024)
-
-|No|Course ID| Core Course (24)|Credits|Term|Overlap?|
-|-|-|-|-|-|-|
-|1|CS2229|Machine learning algorithms and theory|4|20251|AI6102|
-|2|CS2230|Deep Learning and Applications|3|20251|AI6103|
-|3|CS2207|Data mining and applications|4|20251|SD6125|
-|4|IS6108|Big Data Analysis and Cloud Computing|4|20252|
-|5|IT2011|Advanced Databases|4|20252|
-|6|PH2001|Philosophy|3|*
-|7|CS2205|Scientific research methodology|2|*	
-
-|No|Course ID| Elective Course (21+)|Credits|Term|Note|
-|-|-|-|-|-|-|
-|1|IS6104|Introduction to Mobile Application Development|4||SE/IS (interdisciplinary)|
-|2|IT2030|Advanced geographic information system|3||IT (interdisciplinary)|
-|3|||4||waiting - MSDS/interdisciplinary|
-|4||Research (Term 2) |4||waiting - MSDS|
-|5||Research (Term 3) |4||waiting - MSDS|
-|6||Research (Term 4) |4||waiting - MSDS|
-
-|No|Course ID| Back-up Course [MSCS] (12)|Credits|Term|Note|
-|-|-|-|-|-|-|
-|1|||4|||
-|2|||4|||
-|3|||4|||
-
-
-|No|Course ID| Thesis (15)|Credits|
-|-|-|-|-|
-|1|CS2506|Research-based Program Thesis|15|
+|No|Course ID|Core Courses|Crd|
+|--|--|--|--|
+|I.1|CS2205|Scientific research methodology|2|
+|I.2|PH2001|Philosophy|3|
+|II.1|IS6104|Introduction to Mobile Application Development (MAD)|4|
+|II.2|CS2224|Computer Vision - Information Retrieval (CV)|3|
+|II.3|CS2228|Evolutionary Algorithms (EA)|4|
+|II.4|CS2229|Machine learning algorithms and theory (ML)|4|
+|II.5|CS2230|Deep Learning (DL)|3|
+|II.6|NT2102|Information Systems Security (ISS)|4|
+|III.1|CS2207|Data mining (DM)|4|
+|III.2|CS2208|Decision Support System (DSS)|3|
+|III.3|IS6108|Big Data Analysis and Cloud Computing (DCC)|4|
+|III.4|IT2011|Advanced Databases (AD)|4|
+|III.5|IT2030|Advanced geographic information system (GIS)|3|
+|III.6|IT2036|Big Data Analysis (BDA)|3|
+|IV.1|CS2501|Thesis|12|
 
 > ✅ Plagiarism Detector ([Turnitin](https://www.turnitin.com/)) | 25% (All content), 5% (1 source) <br>
 > ✅ Quota & topic: [UIT/Postgrad/Quota](https://docs.google.com/spreadsheets/d/1mddaN_f82lnpEP8nqbz6_uCYwXZaJDDz/edit?gid=1891768874#gid=1891768874), [UIT/Postgrad/Topic](https://docs.google.com/spreadsheets/d/1pfjqKoUjUMdSf__QGyWbRRiVKl6iZKIFA36-_2yzvTk/edit?gid=698935858#gid=698935858) <br>
