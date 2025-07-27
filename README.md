@@ -1,8 +1,8 @@
 ## MSc in Computer Science (Specialized in Data Science) (K21.2 | 12/2026 - 12/2028)
 **Pre-master**
-- [ ] **P1 | 8/2025 - 11/2025**: Mathematics for Machine Learning, HSK 3 (entrance)
-- [ ] **P2 | 12/2025 - 3/2026**: Machine learning
-- [ ] **P3 | 4/2026 - 7/2026**: Deep Learning
+- [ ] **P1 | 8/2025 - 11/2025**: Mathematics for Machine Learning, Machine Learning (1), HSK 3 (entrance)
+- [ ] **P2 | 12/2025 - 3/2026**: Machine Learning (1), Deep Learning (1)
+- [ ] **P3 | 4/2026 - 7/2026**: Deep Learning (2)
 - [ ] **P4 | 8/2026 - 11/2026**: Thesis Planning, HSK 4 (graduation)
       
 **Y1** 
