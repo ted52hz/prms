@@ -1,13 +1,21 @@
-## MSc in Computer Science (Specialized in Data Science) (K21 | 12/2026 - 12/2028)
-Y1
-- [ ] Y1.1 | 12/2026 - 3/2027: 2
-- [ ] Y1.2 | 4/2027 - 7/2027: 4
-- [ ] Y1.3 | 8/2027 - 11/2027: 4
+## MSc in Computer Science (Specialized in Data Science) (K21.2 | 12/2026 - 12/2028)
+**Pre-master**
+- [ ] **P1 | 8/2025 - 11/2025**: Mathematics for Machine Learning, HSK 3 (entrance)
+- [ ] **P2 | 12/2025 - 3/2026**: Machine learning
+- [ ] **P3 | 4/2026 - 7/2026**: Deep Learning
+- [ ] **P4 | 8/2026 - 11/2026**: Thesis Planning, HSK 4 (graduation)
+      
+**Y1** 
+- [ ] **Y1.1 | 12/2026 - 3/2027**: Scientific research methodology (2), Philosophy (3)
+- [ ] **Y1.2 | 4/2027 - 7/2027**: 4 (15-16)
+- [ ] **Y1.3 | 8/2027 - 11/2027**: 4 (14-15)
+
+***scholarship = {min(credits) = 30, min(GPA) = 8.0}***
 
 Y2
-- [ ] Y2.1 | 12/2027 - 3/2028: 3
-- [ ] Y2.2 | 4/2028 - 7/2028: 1, *
-- [ ] Y2.3 | 8/2028 - 11/2028: *
+- [ ] **Y2.1 | 12/2027 - 3/2028**: 3 (11-12)
+- [ ] **Y2.2 | 4/2028 - 7/2028**: 1 (4), Thesis (phase 1)
+- [ ] **Y2.3 | 8/2028 - 11/2028**: Thesis (phase 2) (12)
   
 |No|Course ID|Core Courses|Crd|
 |--|--|--|--|
